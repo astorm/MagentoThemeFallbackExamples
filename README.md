@@ -11,4 +11,4 @@ The `pulsestorm/default` theme is a child of `rwd/default` (the new responsive w
 
 The `pulsestorm/a` theme is a child of `pulsestorm/default`.
 
-The intent of these samples, along with their [parent article](http://alanstorm.com/...tk), is to demonstrate how standard Magento layout XML files fall under infinite inheritance, while `theme.xml` specific files fall outside of multiple inheritance. 
+The intent of these samples, along with their [parent article](http://alanstorm.com/magento_infinite_fallback_theme_xml), is to demonstrate how standard Magento layout XML files fall under infinite inheritance, while `theme.xml` specific files fall outside of multiple inheritance. 
